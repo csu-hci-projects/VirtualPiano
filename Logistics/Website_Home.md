@@ -1,9 +1,11 @@
-# CS464 Virtual Piano with the Leap Motion
-### By Edward Lee, Trey Yu, Desarae Cruz
-
-
-
-#### References:
-[Most Important Reference](https://www.google.com)
-
-[![DMB](http://img.youtube.com/vi/CZlfbep2LdU/0.jpg)](https://www.youtube.com/watch?v=CZlfbep2LdU)
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/intervarsity-csu.css">
+	
+</head>
+<body>
+  
+</body>
+</html>
